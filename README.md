@@ -30,7 +30,7 @@ Steps to run this project:
 # Advanced/Optional Homework
 
 - Do the same for Editing Taks - test using the front end
-- Implement the logic for tasks completed and delete tasks - you have to write the front end logic for those as well.
+- Implement the back-end logic for tasks completed and delete tasks - this time there is no front-end logic - write the front-end logic.
 
 Good job on your first month!!!
 Keep hacking
