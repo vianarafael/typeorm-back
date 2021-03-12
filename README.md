@@ -32,7 +32,7 @@ Steps to run this project:
 
 - Do the same for Editing Taks - test using the front end
 - Implement the back-end logic for tasks completed and delete tasks - this time there is no front-end logic - write the front-end logic.
-
+- On the front-end make each title in tasks page clickable, on click - show the description of each task 
 Good job on your first month!!!
 Keep hacking
 
