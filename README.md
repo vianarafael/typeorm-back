@@ -9,6 +9,7 @@ Steps to run this project:
 # Basic Review
 
 ## 1. Open the Tasks.ts (inside the entity folder) - create the columns following the instructions in the comments.
+(Hint: The front-end is only passing the title & description, all other columns should be either auto generated or have a default)
 
 ## 2. Open index.ts (src/index.ts) Import createConnection from typeorm and run the server (I've installed nodemon - if you want to use hot-reloading).
 
