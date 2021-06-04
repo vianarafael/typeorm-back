@@ -1,4 +1,4 @@
-# CC20 TypeORM Review
+# CC20 / CCJ5 TypeORM Review
 
 Steps to run this project:
 
