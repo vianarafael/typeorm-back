@@ -1,4 +1,4 @@
-# CC18 TypeORM Review
+# CC20 TypeORM Review
 
 Steps to run this project:
 
